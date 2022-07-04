@@ -15,3 +15,4 @@
 * Two main reason for majority of the customers leaving the company was because of better offers given by the competitors and attitude of support person.
 * Perform SWOT analysis to find insights for preparing better campaigns and offers.
 * Launch new offers based on the preferred subscription mode and contract to atrract more customers.
+* Implement better customer support strategies for exisiting and new joined customers for better customer retention rate.
