@@ -1,5 +1,4 @@
-# Customer Churn rate Project
-Project focused to improve retention by identifying high value customers and churn risks.
+
 # Project-2 Overview:
 [Project files](https://github.com/shoaibhub/Project_2)
 * Ran SQL queries to perform Exploratory Data Analysis and to find trends.
