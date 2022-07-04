@@ -1,5 +1,5 @@
 
-# Project-2 Overview:
+# Project Overview:
 [Project files](https://github.com/shoaibhub/Project_2)
 * Used SQL to perform Exploratory Data Analysis and to find trends.
 * Used Power Query to Load and transaform data before creating visualisations using PowerBI
