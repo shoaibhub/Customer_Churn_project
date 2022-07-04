@@ -8,3 +8,6 @@ Project focused to improve retention by identifying high value customers and chu
 
 **Final dashboard picture:**
 ![](https://github.com/shoaibhub/Project_2/blob/main/images/Telecom_project_picture.png)
+
+**SQL Queries Ran For EDA:**
+![](https://github.com/shoaibhub/Project_2/blob/main/images/SQL_QUERIES_FOR_EDA.png)
