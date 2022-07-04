@@ -7,4 +7,4 @@ Project focused to improve retention by identifying high value customers and chu
 * Made a dashboard answering key questions that would help the company identify customer churn risks and help in making better decision to increase customer retention rate.
 
 **Final dashboard picture:**
-![Final Dashboard](https://github.com/shoaibhub/Project_2/blob/main/images/Telecom_project_picture.png)
+![](https://github.com/shoaibhub/Project_2/blob/main/images/Telecom_project_picture.png)
