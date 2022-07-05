@@ -1,5 +1,6 @@
 
 # Project Overview:
+### Tools Used: SQL, Power Query, PowerBI 
 [Project files](https://github.com/shoaibhub/Project_2)
 * Used SQL to perform Exploratory Data Analysis and to find trends.
 * Used Power Query to Load and transaform data before creating visualisations using PowerBI
